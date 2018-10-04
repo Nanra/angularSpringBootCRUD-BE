@@ -7,4 +7,7 @@ Bakc End for example Angular SpringBoot CRUD
 * Apache Maven
 * Spring Boot V2
 * MySQL 5.7.23
+* REST API
+* JPA
+* JDBC
 ```
